@@ -1,7 +1,4 @@
 {
-  "exibir": true,
-  "titulo": "🔥 LANÇAMENTO EXCLUSIVO!",
-  "texto": "Assista ao vídeo de apresentação do novo e-book e garanta o seu com desconto.",
-  "botao_texto": "Assistir Vídeo",
-  "link_acao": "https://youtube.com/seu-video"
+  "texto": "Novo e-book disponível na biblioteca!",
+  "exibir": true
 }
