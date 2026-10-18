@@ -1,4 +1,10 @@
-{ "titulo": "Senti aquela fraqueza leve que vai aumentando devagarinho.", 
-"mensagem": "Quatro horas no centro da cidade, sem dinheiro, sem poder comprar nem sequer um lanche.", 
-"link": "#", 
-"texto_botao": "sejam bem-vindos!" }
+{
+  "tipo_comunicado": "banner_promocional",
+  "titulo": "⚽ Bem-vindo ao App do Brasileirão!",
+  "mensagem": "Confira a tabela atualizada em tempo real e não perca nenhum lance.",
+  "imagem_url": "https://raw.githubusercontent.com/kikodapaz-dev/meu_app_avisos/main/banner_brasileirao.png",
+  "link": "https://finetocom.wixsite.com/provdia",
+  "texto_botao": "Ver Tabela Ao Vivo",
+  "mostrar_badge": true,
+  "texto_badge": "NOVIDADE DE HOJE"
+}
